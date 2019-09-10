@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-Hi, I'm a Sophmore studying Computer Science. I'm interested in improving on my programming savvy by contributing to open source projects.
+Hi, I'm a Junior studying Chemical Engineering. But I'm interested to improve on my programming savvy by contributing to open source projects.
